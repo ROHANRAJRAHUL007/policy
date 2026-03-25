@@ -1,0 +1,164 @@
+diff --git a/d:\Downloads\flutter_code\tirthofy_major_project\tirthofy_client_app/PRIVACY_POLICY.md b/d:\Downloads\flutter_code\tirthofy_major_project\tirthofy_client_app/PRIVACY_POLICY.md
+new file mode 100644
+--- /dev/null
++++ b/d:\Downloads\flutter_code\tirthofy_major_project\tirthofy_client_app/PRIVACY_POLICY.md
+@@ -0,0 +1,159 @@
++# Privacy Policy for Tirthofy
++
++Effective date: 2026-03-25
++
++Tirthofy ("we", "our", or "us") provides pilgrimage travel, ride booking, temple service, shopping, hotel, and related support features through the Tirthofy mobile application.
++
++This Privacy Policy explains what information we collect, how we use it, and the choices available to users of the app.
++
++## Information We Collect
++
++We may collect the following types of information:
++
++### 1. Account Information
++
++When you create an account or sign in, we may collect:
++
++- Name
++- Email address
++- Password
++
++### 2. Profile Information
++
++When you update your profile, we may collect:
++
++- Mobile number
++- Address
++- Profile photo
++
++### 3. Location Information
++
++If you allow location access, the app may collect your device location to:
++
++- Show your current location on maps
++- Help with ride, travel, or place-related features
++- Improve location-based service results
++
++Location access is optional, and some features may have limited functionality if permission is denied.
++
++### 4. Support and Complaint Information
++
++If you contact support or submit a complaint, we may collect:
++
++- Name
++- Email address
++- Mobile number
++- Subject
++- Message details
++
++### 5. Payment Information
++
++The app supports payment-related features through Razorpay and app backend services. We may store or process:
++
++- Payment order details
++- Payment ID
++- Payment status
++- Amount paid
++- Temple name, puja name, ride, or booking-related payment references
++
++We do not state that full card or bank details are stored by us unless that is explicitly handled by your payment provider and backend.
++
++### 6. Device and App Data
++
++We may collect limited technical information required to operate the app, such as:
++
++- Login session token stored on your device
++- Basic app usage and request metadata needed for security and functionality
++- Notification-related data needed to display local notifications
++
++## How We Use Information
++
++We use collected information to:
++
++- Create and manage user accounts
++- Authenticate users and maintain secure sessions
++- Provide rides, map, pilgrimage, shopping, hotel, and related app features
++- Process and record payments
++- Update user profiles
++- Respond to support requests and complaints
++- Display notifications
++- Improve app performance, reliability, and user experience
++- Prevent misuse, fraud, or unauthorized access
++
++## Permissions Used by the App
++
++Depending on the features you use, the app may request these permissions:
++
++- Internet: to connect to app services, maps, payments, and hosted content
++- Camera: to let users capture or select profile or other supported images
++- Notifications: to show local or app-related notifications
++- Location: to show maps, current location, and location-based results
++
++You can manage permissions from your device settings.
++
++## Sharing of Information
++
++We may share information only as needed with service providers that help us operate the app, such as:
++
++- Payment providers, including Razorpay
++- Cloud image hosting providers, such as Cloudinary, for uploaded images
++- Map and place service providers used for map and location features
++- Backend hosting, infrastructure, or support service providers
++
++We may also disclose information:
++
++- To comply with legal obligations
++- To enforce our terms or protect users, the app, or the public
++- In connection with a business transfer, merger, or reorganization, if applicable
++
++We do not sell personal information.
++
++## Data Storage and Retention
++
++We retain information for as long as needed to provide services, maintain records, resolve disputes, comply with legal obligations, and enforce our agreements.
++
++Some information, such as login session data, may also be stored locally on your device until you sign out or clear app data.
++
++## Data Security
++
++We use reasonable administrative, technical, and organizational measures to protect personal information. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute security.
++
++## Children's Privacy
++
++This app is not intended for children under 13, and we do not knowingly collect personal information from children under 13. If you believe a child has provided personal information, contact us so we can review and delete it where appropriate.
++
++## Your Choices
++
++You may:
++
++- Review and update profile information in the app
++- Control device permissions such as location, camera, and notifications
++- Stop using the app at any time
++
++If you want your account or personal data deleted, contact us using the contact information below.
++
++## Third-Party Services
++
++The app may rely on third-party services that have their own privacy practices, including:
++
++- Razorpay
++- Cloudinary
++- Google Maps and related location services
++
++We encourage users to review the privacy policies of those third-party services as well.
++
++## Changes to This Privacy Policy
++
++We may update this Privacy Policy from time to time. When we do, we will post the updated version with a revised effective date.
++
++## Contact Us
++
++If you have questions, requests, or concerns about this Privacy Policy or your data, contact:
++
++- Company/App name: Tirthofy
++- Email: [replace-with-your-support-email]
++- Address: [replace-with-your-business-address]
++
++## Before Publishing
++
++Replace the placeholder contact email and address before uploading this policy to Google Play Console or publishing it on a public website.
